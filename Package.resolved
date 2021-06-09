@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineStorable",
+        "repositoryURL": "https://github.com/crane-hiromu/CombineStorable.git",
+        "state": {
+          "branch": null,
+          "revision": "4b0c651c6ebefd2a4dcfcebee89df7cba68de8a4",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
