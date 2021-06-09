@@ -71,28 +71,6 @@ final class ViewController: UIViewController, NotificationSubscribable {
 
 ## Installing
 
-### CocoaPods
-
-Add the following line to your Podfile:
-
-```
-pod 'NotificationSubscribable', :git => 'git@github.com:crane-hiromu/NotificationSubscribable.git', :branch => 'main'
-```
-
-### Carthage
-
-Add the following to your Cartfile:
-
-```
-github "crane-hiromu/NotificationSubscribable"
-```
-
-#### Supplement
-
-If you fail to install, reset caches. (``rm -rf ~/Library/Caches/``)
-
-
-
 ### Swift Package Manager
 
 Add the following dependency to your Package.swift file:
